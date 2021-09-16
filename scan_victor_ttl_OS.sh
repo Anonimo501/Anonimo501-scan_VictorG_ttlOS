@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# Creado By Victor Garcia
+
 # Colours
 greenColour="\e[0;32m\033[1m"
 endColour="\033[0m\e[0m"
@@ -10,6 +12,12 @@ yellowColour="\e[0;33m\033[1m"
 purpleColour="\e[0;35m\033[1m"
 turquoiseColour="\e[0;36m\033[1m"
 grayColour="\e[0;90m\033[1m"
+
+echo ""
+echo "                  [Creado By Victor Garcia]"
+echo ""
+echo "  https://www.youtube.com/channel/UCjNHFaBm_0-Mo749MB3A9cQ"
+echo ""
 
 if [ -z $1 ]
 then
