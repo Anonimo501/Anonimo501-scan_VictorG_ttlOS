@@ -14,7 +14,7 @@ Es necesario tener Go instalado en el equipo para que todo funcione correctament
 
 Parrot OS 4.11
 
-![VG](https://user-images.githubusercontent.com/67207446/133531383-04b5686e-d5a6-4f0e-a128-8c74fef180a8.png)
+![VG](https://user-images.githubusercontent.com/67207446/133531818-e861e62b-c273-4362-84b7-e2fd03e7c8b6.png)
 
 # Instalacion
 
