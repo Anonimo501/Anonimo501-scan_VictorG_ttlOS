@@ -16,10 +16,16 @@ apt install libpcap-dev golang -y
 
 go get -u github.com/liamg/furious
 
-wget -k https://cybexsec.es/scan.txt -O /bin/scan
+git clone https://github.com/Anonimo501/scan_VictorG_ttlOS.git
 
-chmod +x /bin/scan
+chmod +x scan_victor_ttl_OS.sh
 
 # Uso
 
-scan 127.0.0.1
+./scan_victor_ttl_OS.sh 127.0.0.1
+
+# Creador del script
+
+Victor Garcia (Takito) 
+
+https://www.youtube.com/channel/UCjNHFaBm_0-Mo749MB3A9cQ
