@@ -10,6 +10,12 @@ Script de Escaneo TCP
 
 Es necesario tener Go instalado en el equipo para que todo funcione correctamente como usuario root (sudo -i).
 
+# Sistema Operativo
+
+Parrot OS 4.11
+
+![VG](https://user-images.githubusercontent.com/67207446/133531383-04b5686e-d5a6-4f0e-a128-8c74fef180a8.png)
+
 # Instalacion
 
 apt install libpcap-dev golang -y
